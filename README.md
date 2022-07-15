@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+##안녕하세요 ! ✨저는 지이주입니다.✨ 만나서 반갑습니다.😄
+
 <!--
 **JiIJu/JiIJu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
