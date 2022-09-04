@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+새폴더 > git bash > 폴더위치 확인 ( cd ~~) (cd TIL) > git clone 주소 > git add .> git commit -m "커밋" > git push origin master
