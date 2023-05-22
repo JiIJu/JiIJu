@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=Hello!%20I'm%20JiIJu&fontSize=90)
 
-#### :wave: Welcome my github profile !
+## :wave: Welcome my github profile !
 
  <br/>
  <br/>
