@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello! I'm JiIJu!&fontSize=90" />
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello!%20I'm JiIJu&fontSize=90)
 
 #### :wave: Welcome my github profile !
 
