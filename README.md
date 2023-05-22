@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Javascript-E34F26?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/HTML-ffb13b?style=flat-square&logo=HTML&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/HTML5-ffb13b?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp 
   <br>
   <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/></a>&nbsp
