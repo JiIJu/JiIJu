@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=Hello!%20I'm%20JiIJu&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=100&section=header&text=Hello!%20I'm%20JiIJu&fontSize=50)
 
 <h2>👋  Welcome my github profile !</h2>
 
