@@ -7,7 +7,7 @@
  <br/>
  <br/>
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=eldk3131)](https://solved.ac/eldk3131)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eldk3131)](https://solved.ac/eldk3131/)
  
  <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
