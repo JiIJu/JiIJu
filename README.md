@@ -12,7 +12,7 @@
  <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
 
-![JiIJu's GitHub stats](https://github-readme-stats.vercel.app/api?JiIJu=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![JiIJu's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiIJu&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 
 </div>
