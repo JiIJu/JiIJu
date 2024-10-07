@@ -12,7 +12,8 @@
  <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
 
-[![JiIJu's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiIJu&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+![JiIJu's GitHub stats](https://github-readme-stats.vercel.app/api?JiIJu=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
 
 </div>
 
