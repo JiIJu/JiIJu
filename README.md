@@ -12,7 +12,7 @@
  <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
 
-![JiIJu's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiIJu&hide=contribs,prs)
+[![JiIJu's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiIJu)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </div>
